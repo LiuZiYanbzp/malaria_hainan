@@ -1,0 +1,13 @@
+row,col,code,name,countyind
+1,2,3314,ChengMai,1
+1,1,3319,DanZhou,2
+2,1,3324,ChangJiang,3
+2,2,3325,BaiSha,4
+2,4,3326,QiongHai,5
+2,3,3328,QiongZhong,6
+3,1,3330,DongFang,7
+3,2,3332,WanNing,8
+4,1,3334,LeDong,9
+4,2,3336,BaoTing,10
+4,3,3337,LingShui,11
+5,1,3339,SanYa,12
